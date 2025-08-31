@@ -1,16 +1,7 @@
-# sample
+# はじめに
+これはGitHub Copilotに生成させたFlutterでRiverpodを使用したメジャーな設計であるMVVMパターンのサンプルコードです。\
+ほぼ全てのプログラムにコメントを生成させているため、初心者の導入としてお使いください。
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 利用方法
+リポジトリをローカルにクローンして、"README_BEGINNER.md" を参照してください。\
+記述プログラムは本プロジェクトのlibフォルダ内に配置されています。
